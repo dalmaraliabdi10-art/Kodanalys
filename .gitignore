@@ -1,6 +1,8 @@
 # VS code
 bin/
 obj/
+.vscode/
+.vs/
 # filer som skapas av Visual Studio
 Kodanalys.csproj
 #
