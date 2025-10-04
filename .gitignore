@@ -5,8 +5,7 @@
 # VS code
 bin\Debug\net10.0/
 bin/
-obj/
-C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj
+obj\Debug\net10.0/
 # User-specific files
 *.rsuser
 *.suo
