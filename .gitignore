@@ -1,6 +1,7 @@
 # Byggmappar
 bin/
 obj/
+# Visual Studio-filer  
 .vs/
 # Användarspecifika filer
 Kodanalys.csproj
