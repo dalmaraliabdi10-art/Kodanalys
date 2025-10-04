@@ -3,11 +3,18 @@ bin/
 obj/
 # Visual Studio-filer  
 .vs/
+*.user
+*.Kodanalys.csproj
+*.suo
+# Rider-filer 
+.idea/
+*.sln.iml
+# Paket
+*.nupkg
+# Loggfiler
+*.log
 # Användarspecifika filer
-Kodanalys.csproj
-project.nuget.cache
-project.assets.json
-Kodanalys.csproj.nuget.g.targets
-Kodanalys.csproj.nuget.g.props
-Kodanalys.csproj.nuget.dgspec.json
-Kodanalys.csproj.user
+*.userprefs
+# Byggresultat
+*.exe
+*.dll
