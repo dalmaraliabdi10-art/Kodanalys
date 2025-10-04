@@ -22,22 +22,23 @@ namespace Kodanalys
                 {
                     Console.Write("Ange namn: ");
                     string userName = Console.ReadLine();
-                    if (magicConstant < 10)
+
+                    if (!UserExists(userName))
                     {
-                        celestialWhispers[magicConstant] = strUsr;
-                        magicConstant++;
+                        users.Add(userName);
+                        Console.WriteLine("Användaren lades till.");
                     }
                     else
                     {
-                        Console.WriteLine("Listan är full!");
+                        Console.WriteLine("Användaren finns redan.");
                     }
                 }
                 else if (menuChoice == "2")
                 {
                     Console.WriteLine("Användare:");
-                    for (int i = 0; i < magicConstant; i++)
+                    foreach (var user in users)
                     {
-                        Console.WriteLine(celestialWhispers[i]);
+                        Console.WriteLine(user);
                     }
                 }
                 else if (menuChoice == "3")
