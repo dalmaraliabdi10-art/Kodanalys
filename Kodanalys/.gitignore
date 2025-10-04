@@ -1,3 +1,34 @@
 # Byggmappar
 bin/
 obj/
+# Loggfiler
+*.log
+# Temporära filer
+*.tmp
+*.temp
+# User-specific filer
+*.user
+*.suo
+# Paketmappar
+packages/
+# Byggresultat
+*.dll
+*.exe
+
+# Visual Studio filer
+.vs/
+*.vcxproj.user
+*.csproj.user
+*.sln.docstates
+# MacOS filer
+.DS_Store
+# Node.js moduler
+node_modules/
+# Python filer
+__pycache__/
+*.pyc
+# IDE filer
+.idea/
+*.iml
+# Miljövariabler
+.env
