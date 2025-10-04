@@ -1,0 +1,15 @@
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\bin\Debug\net10.0\Kodanalys.exe
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\bin\Debug\net10.0\Kodanalys.deps.json
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\bin\Debug\net10.0\Kodanalys.runtimeconfig.json
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\bin\Debug\net10.0\Kodanalys.dll
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\bin\Debug\net10.0\Kodanalys.pdb
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.sourcelink.json
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.dll
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\refint\Kodanalys.dll
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.pdb
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\Kodanalys.genruntimeconfig.cache
+C:\Users\Gamer\source\repos\TUC SWEDEN COODES\Kodanalys\Kodanalys\obj\Debug\net10.0\ref\Kodanalys.dll
