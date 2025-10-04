@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kodanalys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95a46e14a76c5378a95dbb8d60c2262275ae0d42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea93f23ab666c8765bb44162822843cfece009ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kodanalys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kodanalys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
