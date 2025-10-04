@@ -6,6 +6,9 @@
 bin\Debug\net10.0/
 bin/
 obj\Debug\net10.0/
+# filer som skapas av Visual Studio
+Kodanalys.sin
+Kodanalys.csproj 
 # User-specific files
 *.rsuser
 *.suo
