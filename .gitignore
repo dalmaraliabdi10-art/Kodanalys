@@ -1,0 +1,7 @@
+# Visual Studio och VS Code
+.vs/
+.vscode/
+
+# Byggmappar
+bin/
+obj/
