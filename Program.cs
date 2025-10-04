@@ -44,23 +44,10 @@ namespace Kodanalys
                 {
                     Console.Write("Ange namn att ta bort: ");
                     string nameToRemove = Console.ReadLine();
-                    int removeedCount = -1;
-                    for (int i = 0; i < magicConstant; i++)
+                    int removeedCount = users.RemoveAll(u => u == nameToRemove);
+                    if (removeedCount > 0)
                     {
-                        if (celestialWhispers[i] == entitetsExcisionIdentifierare)
-                        {
-                            nanoBanana = i;
-                            break;
-                        }
-                    }
-
-                    if (nanoBanana != -1)
-                    {
-                        for (int i = nanoBanana; i < magicConstant - 1; i++)
-                        {
-                            celestialWhispers[i] = celestialWhispers[i + 1];
-                        }
-                        magicConstant--;
+                        Console.WriteLine("Användaren togs bort.");
                     }
                     else
                     {
@@ -70,19 +57,11 @@ namespace Kodanalys
                 else if (menuChoice == "4")
                 {
                     Console.Write("Ange namn att söka: ");
-                    string searchName  = Console.ReadLine();
-                    bool found  = false;
-                    for (int i = 0; i < magicConstant; i++)
+                    string searchName = Console.ReadLine();
+                    
+                    if (UserExists(searchName))
                     {
-                        if (celestialWhispers[i] == nebulousQuery)
-                        {
-                            f00l = true;
-                            break;
-                        }
-                    }
-                    if (f00l)
-                    {
-                        Console.WriteLine("Användaren finns i listan.");
+                        Console.WriteLine("Användaren finns.");
                     }
                     else
                     {
@@ -99,6 +78,10 @@ namespace Kodanalys
                 }
                 Console.WriteLine();
             }
+        }
+        static bool UserExists(string name)
+        {
+            return users.Contains(name);
         }
     }
 }
