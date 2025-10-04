@@ -58,7 +58,7 @@ namespace Kodanalys
                 {
                     Console.Write("Ange namn att söka: ");
                     string searchName = Console.ReadLine();
-                    
+
                     if (UserExists(searchName))
                     {
                         Console.WriteLine("Användaren finns.");
@@ -70,7 +70,7 @@ namespace Kodanalys
                 }
                 else if (menuChoice == "5")
                 {
-                    programHalted = false;
+                    running = false;
                 }
                 else
                 {
